@@ -19,7 +19,5 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-.a1{
-  width: 100vw;
+  max-width: 100%;
 }
